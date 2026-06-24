@@ -1,0 +1,4 @@
+### اختبار جلب محتوى درس معين
+GET http://127.0.0.1:8000/api/lessons/1
+Accept: application/json
+Authorization: Bearer 22|BawvVZ6DAeC2WMmsKpfQyxDcLxS5H5qXqOw0cmQ5775cc998
